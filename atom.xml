@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rzf20.github.io</id>
+    <title>半亩方田</title>
+    <updated>2022-10-01T00:53:55.809Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rzf20.github.io"/>
+    <link rel="self" href="https://rzf20.github.io/atom.xml"/>
+    <subtitle>一万年美好的 回忆！</subtitle>
+    <logo>https://rzf20.github.io/images/avatar.png</logo>
+    <icon>https://rzf20.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 半亩方田</rights>
+    <entry>
+        <title type="html"><![CDATA[被雨淋湿的河]]></title>
+        <id>https://rzf20.github.io/post/bei-yu-lin-shi-de-he/</id>
+        <link href="https://rzf20.github.io/post/bei-yu-lin-shi-de-he/">
+        </link>
+        <updated>2022-09-29T11:36:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手铐上的蓝花花 ]]></title>
+        <id>https://rzf20.github.io/post/shou-kao-shang-de-lan-hua-hua/</id>
+        <link href="https://rzf20.github.io/post/shou-kao-shang-de-lan-hua-hua/">
+        </link>
+        <updated>2022-09-25T14:35:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九款免费轻量的 AutoCAD 的开源替代品推荐]]></title>
+        <id>https://rzf20.github.io/post/jiu-kuan-mian-fei-qing-liang-de-autocad-de-kai-yuan-ti-dai-pin-tui-jian/</id>
+        <link href="https://rzf20.github.io/post/jiu-kuan-mian-fei-qing-liang-de-autocad-de-kai-yuan-ti-dai-pin-tui-jian/">
+        </link>
+        <updated>2022-09-25T14:15:58.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uos安装命令]]></title>
+        <id>https://rzf20.github.io/post/ceshi/</id>
+        <link href="https://rzf20.github.io/post/ceshi/">
+        </link>
+        <updated>2022-09-25T06:24:20.000Z</updated>
+    </entry>
+</feed>
